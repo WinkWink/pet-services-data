@@ -1,15 +1,15 @@
 {
     "services": [{ "id": 1, "title": "I will walk your dog", 
-      "thumbnailUrl": "https://github.com/WinkWink/pet-services-data/blob/main/walkin.jpg", "rate": 22,
+      "thumbnailUrl": "https://raw.githubusercontent.com/WinkWink/pet-services-data/main/walkin.jpg", "rate": 22,
       "rating": 4, "specialist": { "id": 1, "fullName": "Amanda Winkler" }},
       { "id": 2, "title": "I will house sit", 
-        "thumbnailUrl": "https://github.com/WinkWink/pet-services-data/blob/main/spike.jpg", "rate": 35,
+        "thumbnailUrl": "https://raw.githubusercontent.com/WinkWink/pet-services-data/main/spike.jpg", "rate": 35,
         "rating": 3, "specialist": { "id": 1, "fullName": "Amanda Winkler" }},
         { "id": 3, "title": "I will drop in visit", 
-          "thumbnailUrl": "https://github.com/WinkWink/pet-services-data/blob/main/prim.jpg", "rate": 30,
+          "thumbnailUrl": "https://raw.githubusercontent.com/WinkWink/pet-services-data/main/prim.jpg", "rate": 30,
           "rating": 5, "specialist": { "id": 1, "fullName": "Amanda Winkler" }},
           { "id": 4, "title": "Doggy Daycare", 
-            "thumbnailUrl": "https://github.com/WinkWink/pet-services-data/blob/main/dreamin.jpg", "rate": 30,
+            "thumbnailUrl": "https://raw.githubusercontent.com/WinkWink/pet-services-data/main/dreamin.jpg", "rate": 30,
             "rating": 5, "specialist": { "id": 1, "fullName": "Amanda Winkler" }}
     ]
 }
